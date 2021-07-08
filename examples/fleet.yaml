@@ -60,7 +60,7 @@ spec:
       ports:
       - name: default
         portPolicy: Dynamic
-        containerPort: 7654
+        containerPort: 26000
       health:
         initialDelaySeconds: 30
         periodSeconds: 60
