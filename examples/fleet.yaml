@@ -1,7 +1,7 @@
 apiVersion: "agones.dev/v1"
 kind: Fleet
 metadata:
-  name: simple-game-server
+  name: fleet-example
 spec:
   replicas: 2
   template:
