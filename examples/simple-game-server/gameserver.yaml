@@ -20,7 +20,7 @@ spec:
   ports:
   - name: default
     portPolicy: Dynamic
-    containerPort: 7654
+    containerPort: 7777
   template:
     spec:
       containers:
