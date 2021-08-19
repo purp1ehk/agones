@@ -24,7 +24,7 @@ spec:
       - name: default
         containerPort: 7654
       health:
-        initialDelaySeconds: 30
+        initialDelaySeconds: 300
         periodSeconds: 60
       template:
         spec:
