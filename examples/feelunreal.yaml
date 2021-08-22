@@ -30,7 +30,7 @@ spec:
         spec:
           containers:
           - name: simple-game-server
-            image: purplehk/ttm:1.0.0
+            image: purplehk/ttm:1.0.1
             resources:
               requests:
                 memory: "800Mi"
