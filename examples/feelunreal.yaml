@@ -22,7 +22,7 @@ spec:
     spec:
       ports:
       - name: default
-        containerPort: 7654
+        containerPort: 7777
       health:
         initialDelaySeconds: 600
         periodSeconds: 60
